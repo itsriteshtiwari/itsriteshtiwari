@@ -1,6 +1,8 @@
 # 💫 About Me:
-I am Ritesh Tiwari <br>Software Developer 
-
+<h1 align="center"> Hi 👋🏻, I'm Ritesh Tiwari</br> 
+</h1>
+<p align="center">I love creating new things ⚡</p>
+<p align="center">Turning imagination into reality 🚀</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/theritesh_tiwari/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Riteshtiwari973) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshtiwari99999@gmail.com) 
