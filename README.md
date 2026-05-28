@@ -10,7 +10,7 @@
 
 ### 💻 Tech Stack
 - **Frontend:** React, Tailwind CSS, HTML/JS
-- **Backend:** Python (FastAPI, Flask), C# (ASP.NET)
+- **Backend:** Python (FastAPI, Flask)
 - **Databases:** MySQL
 - **Tools & Core Skills:** Git, Linux, API Integration, System Architecture
 
